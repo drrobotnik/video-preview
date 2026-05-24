@@ -10,7 +10,7 @@ No account. No subscription. No bloat. Drop it anywhere and run it.
 
 ## Download
 
-**[→ Download the latest release](https://github.com/YOUR_USERNAME/video-preview/releases/latest)**
+**[→ Download the latest release](https://github.com/drrobotnik/video-preview/releases/latest)**
 
 - `VideoPreview-Setup-vX.X.X.exe` — Windows installer (recommended)
 - `VideoPreview-vX.X.X.zip` — portable, no install required
